@@ -94,3 +94,7 @@ cd drug_screening && python run_screening.py
   "access_right": "open",
   "upload_type": "software"
 }
+DOI
+10.5281/zenodo.20483653
+Markdown
+[![DOI](https://zenodo.org/badge/1255681254.svg)](https://doi.org/10.5281/zenodo.20483652)
